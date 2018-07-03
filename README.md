@@ -7,3 +7,4 @@
 		(1)、不兼容ie edge以下版本，不兼容window系统下safari
 		(2)、若嵌套iframe,则此模块的iframe需要加allowfullscreen
 -->
+[demo](https://zjying.github.io/fullScreen/fullScreen.html)
